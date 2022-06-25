@@ -28,7 +28,10 @@ export function Lesson(props: LessonProps) {
                 {availableDateFormatted}
             </span>
 
-            <div className={ `rounded border border-gray-500 p-4 mt-2 group-hover:border-green-500 ${isActiveLesson ? 'bg-green-500':'' }`}
+            <div 
+                className={classNames('rounded border border-gray-500 p-4 mt-2 group-hover:border-green-500', {
+                    'bg-green-500': isActiveLesson, 
+                })}
             >
                <header className="flex items-center justify-between"> 
                 {isLessonAvailable ? (
