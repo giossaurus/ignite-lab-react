@@ -25,7 +25,7 @@ interface GetLessonsQueryResponse {
 }
 
 export function Sidebar() {
-    const { data } = useQuery<GetLessonsQueryResponse>(GET_LESSONS_QUERY)
+    const { data, loading } = useQuery<GetLessonsQueryResponse>(GET_LESSONS_QUERY)
 
     console.log(data)
 
