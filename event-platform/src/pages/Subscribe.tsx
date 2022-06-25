@@ -34,26 +34,15 @@ export function Subscribe(){
                             placeholder="Digite seu e-mail"
                         />
 
-
-
+                        <button 
+                        className="mt-4 bg-green-500 uppercase py-4 rounded font-bold text-sm hover:bg-green-700 transition colors"
+                        type="submit">
+                            Garantir minha vaga
+                        </button>
                     </form>
-
-
-
-
-
                 </div>
-
-
-
             </div>
-
             <img src="/src/assets/code-mockup.png" className="mt-10" alt="" />
-
-
-
-
-
         </div>
     );
 }
