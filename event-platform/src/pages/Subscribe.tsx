@@ -4,8 +4,8 @@ import { useNavigate } from "react-router-dom";
 import { Logo } from "../components/Logo";
 
 const CREATE_SUBSCRIBER_MUTATION = gql `
-    mutation CreateSubscriber ($name:string!, $email:string!) {
-        createSubscriber(data: {name: "$name", email: "$email"}) {
+    mutation CreateSubscriber ($name:String!, $email:String!) {
+        createSubscriber(data: {name: $name, email: $email}) {
         id
     }
 }
@@ -13,7 +13,6 @@ const CREATE_SUBSCRIBER_MUTATION = gql `
 
 export function Subscribe(){
     const navigate = useNavigate()
-
 
 
     const [name, setName] = useState('');
