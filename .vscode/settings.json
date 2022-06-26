@@ -1,0 +1,8 @@
+{
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultKeybindings": true,
+    "workbench.settings.useSplitJSON": true,
+    "material-icon-theme.activeIconPack": "react",
+    "material-icon-theme.folders.theme": "classic",
+    "prettier.resolveGlobalModules": true
+}
