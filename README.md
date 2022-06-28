@@ -24,11 +24,11 @@
 <p>Projeto desenvolvido durante o <strong> Ignite Lab </strong> para treinar React com Typescript e utilizar consumo de API com GraphQL.<p><br>
 <div align="center">
 </div><br>
-<p>Projeto do figma:<p><br>
+<p>Projeto do figma:https://www.figma.com/file/7Diez524svfSGk7JPqsxOv/Plataforma-de-evento---Ignite-Lab-(Community)?node-id=0%3A1<p><br>
 <div align="center">
 
 </div><br>
-<p><em> Evento da Rocketseat https://www.artofmtg.com <em><br>
+<p><em> Evento da Rocketseat https://www.rocketseat.com.br/ <em><br>
 
 <div align="center">
     <img src="https://github.com/giossaurus/giossaurus/blob/main/profilepic.png" width=190>
