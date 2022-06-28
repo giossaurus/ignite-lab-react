@@ -6,7 +6,8 @@
 <p>Projeto desenvolvido com React JS, React-router-dom, GraphQL, GraphCMS, GraphQL Codegen, TypeScript, TailwindCSS e Vime.
 .<p>
   <div align="center">
-    <img src="https://github.com/giossaurus/projeto_ecommerce_mtg/blob/main/gifsite.gif">
+    <img src="https://github.com/giossaurus/ignite-lab-react/blob/main/68747470733a2f2f692e696d6775722e636f6d2f626b6868644f432e706e67.png">
+    <img src="https://github.com/giossaurus/ignite-lab-react/blob/main/68747470733a2f2f692e696d6775722e636f6d2f4859366a4435322e706e67.png">
   </div>
  <h2 align = "center" >:hammer: Características do site</h2>
 
@@ -36,4 +37,4 @@
     <sub >Giovanni Della Dea</sub>
     <br>https://github.com/giossaurus<br>
 </div> <br>
-<p align="center">:construction: Projeto em andamento :construction:</p>
+<p align="center">:construction: Projeto em melhoria :construction:</p>
